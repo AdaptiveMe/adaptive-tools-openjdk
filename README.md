@@ -1,2 +1,2 @@
-# adaptive-tools-openjdk
+# AdaptiveMe OpenJDK for Tools
 AdaptiveMe OpenJDK - Common JDK for AdaptiveMe tools.
