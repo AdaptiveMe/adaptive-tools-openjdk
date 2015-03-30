@@ -1,4 +1,4 @@
-# AdaptiveMe OpenJDK for Tools
+# AdaptiveMe OpenJDK for Tools [![Stories in Ready](https://badge.waffle.io/AdaptiveMe/adaptive-tools-openjdk.svg?label=ready&title=Ready)](http://waffle.io/AdaptiveMe/adaptive-tools-openjdk)
 AdaptiveMe OpenJDK - Common JDK for AdaptiveMe tools.
 
 ## Releases
